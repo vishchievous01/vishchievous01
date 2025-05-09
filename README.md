@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😊 About Me:
 🫠 An Intermediate Python Full Stack Developer
 
 
