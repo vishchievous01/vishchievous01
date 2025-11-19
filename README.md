@@ -45,6 +45,10 @@
 # ⚒️ Currently working on : 
 [Vishnu Palakkottu](https://#.com) - Personal Portfolio Site🤞
 
+# TryHackMe Stats:
+![]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4854844" style='border:none;'></iframe>
+
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=vishchievous01&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishchievous01&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
