@@ -46,7 +46,7 @@
 [Vishnu Palakkottu](https://#.com) - Personal Portfolio Site🤞
 
 # TryHackMe Stats:
-![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4854844(https://tryhackme-badges.s3.amazonaws.com/pv.vishnu498.png)
+![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4854844)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=vishchievous01&theme=dark&hide_border=true)<br/>
